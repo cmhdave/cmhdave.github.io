@@ -8,7 +8,7 @@ owner: Dave Collins # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
 email: collins.180@osu.edu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://davecollins.org" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/cmhdave73
   github: https://github.com/cmhdave
