@@ -52,5 +52,10 @@ social:
 
 # Build settings
 markdown: kramdown
-#sass:
-#  style: compressed
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+sass:
+  style: compressed
